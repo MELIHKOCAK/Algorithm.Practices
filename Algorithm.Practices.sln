@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.Practices", "Algorithm.Practices.csproj", "{2C20C1D9-4917-40A7-A099-7DD277AC7B73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two.Pointers", "Two.Pointers\Two.Pointers.csproj", "{8A7AB300-9D60-453E-86AB-518BAEC10B85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubble.Sort", "Bubble.Sort\Bubble.Sort.csproj", "{FC9C5362-91E0-4102-8B0A-9E693002F4C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C20C1D9-4917-40A7-A099-7DD277AC7B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C20C1D9-4917-40A7-A099-7DD277AC7B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C20C1D9-4917-40A7-A099-7DD277AC7B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C20C1D9-4917-40A7-A099-7DD277AC7B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7AB300-9D60-453E-86AB-518BAEC10B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7AB300-9D60-453E-86AB-518BAEC10B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7AB300-9D60-453E-86AB-518BAEC10B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7AB300-9D60-453E-86AB-518BAEC10B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9C5362-91E0-4102-8B0A-9E693002F4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9C5362-91E0-4102-8B0A-9E693002F4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9C5362-91E0-4102-8B0A-9E693002F4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9C5362-91E0-4102-8B0A-9E693002F4C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
