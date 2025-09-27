@@ -3,3 +3,5 @@
 ## I Tried
  * Bubble Sort
  * Two Pointers
+ * Selection Sort
+ * Merge Strings Alternately(LeetCode)
