@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Test\\Algorithm.Practices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC9C5362-91E0-4102-8B0A-9E693002F4C0}|Bubble.Sort\\Bubble.Sort.csproj|c:\\test\\algorithm.practices\\bubble.sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC9C5362-91E0-4102-8B0A-9E693002F4C0}|Bubble.Sort\\Bubble.Sort.csproj|solutionrelative:bubble.sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{063F3FB2-E2D6-4E09-B322-158D68F25E3D}|Algorithm.Question\\LeetCode.Merge.String.Alternately\\LeetCode.Merge.String.Alternately.csproj|c:\\test\\algorithm.practices\\algorithm.question\\leetcode.merge.string.alternately\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063F3FB2-E2D6-4E09-B322-158D68F25E3D}|Algorithm.Question\\LeetCode.Merge.String.Alternately\\LeetCode.Merge.String.Alternately.csproj|solutionrelative:algorithm.question\\leetcode.merge.string.alternately\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC9C5362-91E0-4102-8B0A-9E693002F4C0}|Bubble.Sort\\Bubble.Sort.csproj|c:\\test\\algorithm.practices\\bubble.sort\\bubble.sort.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FC9C5362-91E0-4102-8B0A-9E693002F4C0}|Bubble.Sort\\Bubble.Sort.csproj|solutionrelative:bubble.sort\\bubble.sort.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{063F3FB2-E2D6-4E09-B322-158D68F25E3D}|Algorithm.Question\\LeetCode.Merge.String.Alternately\\LeetCode.Merge.String.Alternately.csproj|c:\\test\\algorithm.practices\\algorithm.question\\leetcode.merge.string.alternately\\leetcode.merge.string.alternately.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{063F3FB2-E2D6-4E09-B322-158D68F25E3D}|Algorithm.Question\\LeetCode.Merge.String.Alternately\\LeetCode.Merge.String.Alternately.csproj|solutionrelative:algorithm.question\\leetcode.merge.string.alternately\\leetcode.merge.string.alternately.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Bubble.Sort",
-              "DocumentMoniker": "C:\\Test\\Algorithm.Practices\\Bubble.Sort\\Bubble.Sort.csproj",
-              "RelativeDocumentMoniker": "Bubble.Sort\\Bubble.Sort.csproj",
-              "ToolTip": "C:\\Test\\Algorithm.Practices\\Bubble.Sort\\Bubble.Sort.csproj",
-              "RelativeToolTip": "Bubble.Sort\\Bubble.Sort.csproj",
+              "Title": "LeetCode.Merge.String.Alternately",
+              "DocumentMoniker": "C:\\Test\\Algorithm.Practices\\Algorithm.Question\\LeetCode.Merge.String.Alternately\\LeetCode.Merge.String.Alternately.csproj",
+              "RelativeDocumentMoniker": "Algorithm.Question\\LeetCode.Merge.String.Alternately\\LeetCode.Merge.String.Alternately.csproj",
+              "ToolTip": "C:\\Test\\Algorithm.Practices\\Algorithm.Question\\LeetCode.Merge.String.Alternately\\LeetCode.Merge.String.Alternately.csproj",
+              "RelativeToolTip": "Algorithm.Question\\LeetCode.Merge.String.Alternately\\LeetCode.Merge.String.Alternately.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-22T11:35:11.08Z",
+              "WhenOpened": "2025-09-27T16:36:28.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Test\\Algorithm.Practices\\Bubble.Sort\\Program.cs",
-              "RelativeDocumentMoniker": "Bubble.Sort\\Program.cs",
-              "ToolTip": "C:\\Test\\Algorithm.Practices\\Bubble.Sort\\Program.cs",
-              "RelativeToolTip": "Bubble.Sort\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAB3AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Test\\Algorithm.Practices\\Algorithm.Question\\LeetCode.Merge.String.Alternately\\Program.cs",
+              "RelativeDocumentMoniker": "Algorithm.Question\\LeetCode.Merge.String.Alternately\\Program.cs",
+              "ToolTip": "C:\\Test\\Algorithm.Practices\\Algorithm.Question\\LeetCode.Merge.String.Alternately\\Program.cs",
+              "RelativeToolTip": "Algorithm.Question\\LeetCode.Merge.String.Alternately\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T11:33:01.985Z",
+              "WhenOpened": "2025-09-27T16:36:13.492Z",
               "EditorCaption": ""
             }
           ]
