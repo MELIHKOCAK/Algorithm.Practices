@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Test\\Algorithm.Practices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{063F3FB2-E2D6-4E09-B322-158D68F25E3D}|Algorithm.Question\\LeetCode.Merge.String.Alternately\\LeetCode.Merge.String.Alternately.csproj|c:\\test\\algorithm.practices\\algorithm.question\\leetcode.merge.string.alternately\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{063F3FB2-E2D6-4E09-B322-158D68F25E3D}|Algorithm.Question\\LeetCode.Merge.String.Alternately\\LeetCode.Merge.String.Alternately.csproj|solutionrelative:algorithm.question\\leetcode.merge.string.alternately\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{063F3FB2-E2D6-4E09-B322-158D68F25E3D}|Algorithm.Question\\LeetCode.Merge.String.Alternately\\LeetCode.Merge.String.Alternately.csproj|c:\\test\\algorithm.practices\\algorithm.question\\leetcode.merge.string.alternately\\leetcode.merge.string.alternately.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{063F3FB2-E2D6-4E09-B322-158D68F25E3D}|Algorithm.Question\\LeetCode.Merge.String.Alternately\\LeetCode.Merge.String.Alternately.csproj|solutionrelative:algorithm.question\\leetcode.merge.string.alternately\\leetcode.merge.string.alternately.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{55026291-799A-4DBF-B544-D0C99D3507AC}|Binary.Search\\Binary.Search.csproj|c:\\test\\algorithm.practices\\binary.search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55026291-799A-4DBF-B544-D0C99D3507AC}|Binary.Search\\Binary.Search.csproj|solutionrelative:binary.search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LeetCode.Merge.String.Alternately",
-              "DocumentMoniker": "C:\\Test\\Algorithm.Practices\\Algorithm.Question\\LeetCode.Merge.String.Alternately\\LeetCode.Merge.String.Alternately.csproj",
-              "RelativeDocumentMoniker": "Algorithm.Question\\LeetCode.Merge.String.Alternately\\LeetCode.Merge.String.Alternately.csproj",
-              "ToolTip": "C:\\Test\\Algorithm.Practices\\Algorithm.Question\\LeetCode.Merge.String.Alternately\\LeetCode.Merge.String.Alternately.csproj",
-              "RelativeToolTip": "Algorithm.Question\\LeetCode.Merge.String.Alternately\\LeetCode.Merge.String.Alternately.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-27T16:36:28.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Test\\Algorithm.Practices\\Algorithm.Question\\LeetCode.Merge.String.Alternately\\Program.cs",
-              "RelativeDocumentMoniker": "Algorithm.Question\\LeetCode.Merge.String.Alternately\\Program.cs",
-              "ToolTip": "C:\\Test\\Algorithm.Practices\\Algorithm.Question\\LeetCode.Merge.String.Alternately\\Program.cs",
-              "RelativeToolTip": "Algorithm.Question\\LeetCode.Merge.String.Alternately\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAkAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Test\\Algorithm.Practices\\Binary.Search\\Program.cs",
+              "RelativeDocumentMoniker": "Binary.Search\\Program.cs",
+              "ToolTip": "C:\\Test\\Algorithm.Practices\\Binary.Search\\Program.cs",
+              "RelativeToolTip": "Binary.Search\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T16:36:13.492Z",
+              "WhenOpened": "2025-10-11T13:56:12.198Z",
               "EditorCaption": ""
             }
           ]

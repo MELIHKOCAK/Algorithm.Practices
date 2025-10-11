@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Selection.Sort")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Binary.Search")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11fd6f7b47362d5bebc486c94777ee88be64710b")]
-[assembly: System.Reflection.AssemblyProductAttribute("Selection.Sort")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Selection.Sort")]
+[assembly: System.Reflection.AssemblyProductAttribute("Binary.Search")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Binary.Search")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

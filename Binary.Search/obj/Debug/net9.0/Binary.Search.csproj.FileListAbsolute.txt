@@ -1,0 +1,15 @@
+C:\Test\Algorithm.Practices\Binary.Search\bin\Debug\net9.0\Binary.Search.exe
+C:\Test\Algorithm.Practices\Binary.Search\bin\Debug\net9.0\Binary.Search.deps.json
+C:\Test\Algorithm.Practices\Binary.Search\bin\Debug\net9.0\Binary.Search.runtimeconfig.json
+C:\Test\Algorithm.Practices\Binary.Search\bin\Debug\net9.0\Binary.Search.dll
+C:\Test\Algorithm.Practices\Binary.Search\bin\Debug\net9.0\Binary.Search.pdb
+C:\Test\Algorithm.Practices\Binary.Search\obj\Debug\net9.0\Binary.Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\Algorithm.Practices\Binary.Search\obj\Debug\net9.0\Binary.Search.AssemblyInfoInputs.cache
+C:\Test\Algorithm.Practices\Binary.Search\obj\Debug\net9.0\Binary.Search.AssemblyInfo.cs
+C:\Test\Algorithm.Practices\Binary.Search\obj\Debug\net9.0\Binary.Search.csproj.CoreCompileInputs.cache
+C:\Test\Algorithm.Practices\Binary.Search\obj\Debug\net9.0\Binary.Search.sourcelink.json
+C:\Test\Algorithm.Practices\Binary.Search\obj\Debug\net9.0\Binary.Search.dll
+C:\Test\Algorithm.Practices\Binary.Search\obj\Debug\net9.0\refint\Binary.Search.dll
+C:\Test\Algorithm.Practices\Binary.Search\obj\Debug\net9.0\Binary.Search.pdb
+C:\Test\Algorithm.Practices\Binary.Search\obj\Debug\net9.0\Binary.Search.genruntimeconfig.cache
+C:\Test\Algorithm.Practices\Binary.Search\obj\Debug\net9.0\ref\Binary.Search.dll
