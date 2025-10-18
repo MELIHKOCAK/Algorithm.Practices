@@ -27,7 +27,7 @@
 
         static void Main(string[] args)
         {
-            //I solved leetcode 3. question
+            //I solved leetcode 3. algorithm question
             //https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 
             int[] candies = { 5, 8, 2, 4 };

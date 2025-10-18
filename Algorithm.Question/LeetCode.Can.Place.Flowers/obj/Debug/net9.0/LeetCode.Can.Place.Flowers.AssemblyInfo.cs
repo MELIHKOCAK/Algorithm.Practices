@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Binary.Search")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.Can.Place.Flowers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc6b05b6a60c0b9063551273334782c8591f3a35")]
-[assembly: System.Reflection.AssemblyProductAttribute("Binary.Search")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Binary.Search")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.Can.Place.Flowers")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.Can.Place.Flowers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
