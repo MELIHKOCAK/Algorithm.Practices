@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Bubble.Sort")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.Kids.With.The.Greatest.Number.of.Candies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d73e81178dcc31f63bb9888234b9629305c5e4f")]
-[assembly: System.Reflection.AssemblyProductAttribute("Bubble.Sort")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Bubble.Sort")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.Kids.With.The.Greatest.Number.of.Candies")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.Kids.With.The.Greatest.Number.of.Candies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        // I tried binary seacrh algorithm myself. this solution maybe is not the best solution.
+        // I tried write binary seacrh algorithm myself. this solution maybe is not the best solution.
         public static void BinarySearch(int[] array, int findValue)
         {
             int minValue = 0;
