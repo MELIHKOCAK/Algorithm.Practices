@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Two.Pointers")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.Reverse.Vowels.String")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ee5c15ef235634c047b4af1ff52769adc84fa04")]
-[assembly: System.Reflection.AssemblyProductAttribute("Two.Pointers")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Two.Pointers")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.Reverse.Vowels.String")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.Reverse.Vowels.String")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

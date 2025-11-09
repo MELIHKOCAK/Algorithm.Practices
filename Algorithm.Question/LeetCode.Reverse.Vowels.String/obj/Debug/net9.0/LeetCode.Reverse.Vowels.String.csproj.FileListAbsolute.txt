@@ -1,0 +1,15 @@
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.Vowels.String\bin\Debug\net9.0\LeetCode.Reverse.Vowels.String.exe
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.Vowels.String\bin\Debug\net9.0\LeetCode.Reverse.Vowels.String.deps.json
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.Vowels.String\bin\Debug\net9.0\LeetCode.Reverse.Vowels.String.runtimeconfig.json
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.Vowels.String\bin\Debug\net9.0\LeetCode.Reverse.Vowels.String.dll
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.Vowels.String\bin\Debug\net9.0\LeetCode.Reverse.Vowels.String.pdb
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.Vowels.String\obj\Debug\net9.0\LeetCode.Reverse.Vowels.String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.Vowels.String\obj\Debug\net9.0\LeetCode.Reverse.Vowels.String.AssemblyInfoInputs.cache
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.Vowels.String\obj\Debug\net9.0\LeetCode.Reverse.Vowels.String.AssemblyInfo.cs
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.Vowels.String\obj\Debug\net9.0\LeetCode.Reverse.Vowels.String.csproj.CoreCompileInputs.cache
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.Vowels.String\obj\Debug\net9.0\LeetCode.Reverse.Vowels.String.sourcelink.json
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.Vowels.String\obj\Debug\net9.0\LeetCode.Reverse.Vowels.String.dll
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.Vowels.String\obj\Debug\net9.0\refint\LeetCode.Reverse.Vowels.String.dll
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.Vowels.String\obj\Debug\net9.0\LeetCode.Reverse.Vowels.String.pdb
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.Vowels.String\obj\Debug\net9.0\LeetCode.Reverse.Vowels.String.genruntimeconfig.cache
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.Vowels.String\obj\Debug\net9.0\ref\LeetCode.Reverse.Vowels.String.dll

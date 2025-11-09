@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Kids.With.The.Grea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Can.Place.Flowers", "Algorithm.Question\LeetCode.Can.Place.Flowers\LeetCode.Can.Place.Flowers.csproj", "{68FBE89E-FD28-46B3-9513-DDB025F3B9E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Reverse.Vowels.String", "Algorithm.Question\LeetCode.Reverse.Vowels.String\LeetCode.Reverse.Vowels.String.csproj", "{80EEBF19-FDA1-4C78-BAC6-D38372D4CCA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{68FBE89E-FD28-46B3-9513-DDB025F3B9E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68FBE89E-FD28-46B3-9513-DDB025F3B9E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68FBE89E-FD28-46B3-9513-DDB025F3B9E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80EEBF19-FDA1-4C78-BAC6-D38372D4CCA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EEBF19-FDA1-4C78-BAC6-D38372D4CCA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EEBF19-FDA1-4C78-BAC6-D38372D4CCA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EEBF19-FDA1-4C78-BAC6-D38372D4CCA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,5 +73,6 @@ Global
 		{063F3FB2-E2D6-4E09-B322-158D68F25E3D} = {DE744514-3479-43C9-B842-DA75529652B2}
 		{26575017-75EE-4C2A-8A69-8E4604892615} = {DE744514-3479-43C9-B842-DA75529652B2}
 		{68FBE89E-FD28-46B3-9513-DDB025F3B9E0} = {DE744514-3479-43C9-B842-DA75529652B2}
+		{80EEBF19-FDA1-4C78-BAC6-D38372D4CCA5} = {DE744514-3479-43C9-B842-DA75529652B2}
 	EndGlobalSection
 EndGlobal
