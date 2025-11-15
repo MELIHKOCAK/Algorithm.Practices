@@ -5,3 +5,6 @@
  * Two Pointers
  * Selection Sort
  * Merge Strings Alternately(LeetCode)
+ * Can Place Flowers(LeetCode)
+ * Kids With The Greatest Number of Candies(LeetCode)
+ * Reverse Vowels String(LeetCode)
