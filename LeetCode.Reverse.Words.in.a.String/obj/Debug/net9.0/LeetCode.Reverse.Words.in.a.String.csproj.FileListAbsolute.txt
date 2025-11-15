@@ -1,0 +1,15 @@
+C:\Test\Algorithm.Practices\LeetCode.Reverse.Words.in.a.String\bin\Debug\net9.0\LeetCode.Reverse.Words.in.a.String.exe
+C:\Test\Algorithm.Practices\LeetCode.Reverse.Words.in.a.String\bin\Debug\net9.0\LeetCode.Reverse.Words.in.a.String.deps.json
+C:\Test\Algorithm.Practices\LeetCode.Reverse.Words.in.a.String\bin\Debug\net9.0\LeetCode.Reverse.Words.in.a.String.runtimeconfig.json
+C:\Test\Algorithm.Practices\LeetCode.Reverse.Words.in.a.String\bin\Debug\net9.0\LeetCode.Reverse.Words.in.a.String.dll
+C:\Test\Algorithm.Practices\LeetCode.Reverse.Words.in.a.String\bin\Debug\net9.0\LeetCode.Reverse.Words.in.a.String.pdb
+C:\Test\Algorithm.Practices\LeetCode.Reverse.Words.in.a.String\obj\Debug\net9.0\LeetCode.Reverse.Words.in.a.String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\Algorithm.Practices\LeetCode.Reverse.Words.in.a.String\obj\Debug\net9.0\LeetCode.Reverse.Words.in.a.String.AssemblyInfoInputs.cache
+C:\Test\Algorithm.Practices\LeetCode.Reverse.Words.in.a.String\obj\Debug\net9.0\LeetCode.Reverse.Words.in.a.String.AssemblyInfo.cs
+C:\Test\Algorithm.Practices\LeetCode.Reverse.Words.in.a.String\obj\Debug\net9.0\LeetCode.Reverse.Words.in.a.String.csproj.CoreCompileInputs.cache
+C:\Test\Algorithm.Practices\LeetCode.Reverse.Words.in.a.String\obj\Debug\net9.0\LeetCode.Reverse.Words.in.a.String.sourcelink.json
+C:\Test\Algorithm.Practices\LeetCode.Reverse.Words.in.a.String\obj\Debug\net9.0\LeetCode.Reverse.Words.in.a.String.dll
+C:\Test\Algorithm.Practices\LeetCode.Reverse.Words.in.a.String\obj\Debug\net9.0\refint\LeetCode.Reverse.Words.in.a.String.dll
+C:\Test\Algorithm.Practices\LeetCode.Reverse.Words.in.a.String\obj\Debug\net9.0\LeetCode.Reverse.Words.in.a.String.pdb
+C:\Test\Algorithm.Practices\LeetCode.Reverse.Words.in.a.String\obj\Debug\net9.0\LeetCode.Reverse.Words.in.a.String.genruntimeconfig.cache
+C:\Test\Algorithm.Practices\LeetCode.Reverse.Words.in.a.String\obj\Debug\net9.0\ref\LeetCode.Reverse.Words.in.a.String.dll
