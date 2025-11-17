@@ -1,0 +1,15 @@
+C:\Test\Algorithm.Practices\Algorithm.Technics\Two.Pointers\bin\Debug\net9.0\Two.Pointers.exe
+C:\Test\Algorithm.Practices\Algorithm.Technics\Two.Pointers\bin\Debug\net9.0\Two.Pointers.deps.json
+C:\Test\Algorithm.Practices\Algorithm.Technics\Two.Pointers\bin\Debug\net9.0\Two.Pointers.runtimeconfig.json
+C:\Test\Algorithm.Practices\Algorithm.Technics\Two.Pointers\bin\Debug\net9.0\Two.Pointers.dll
+C:\Test\Algorithm.Practices\Algorithm.Technics\Two.Pointers\bin\Debug\net9.0\Two.Pointers.pdb
+C:\Test\Algorithm.Practices\Algorithm.Technics\Two.Pointers\obj\Debug\net9.0\Two.Pointers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\Algorithm.Practices\Algorithm.Technics\Two.Pointers\obj\Debug\net9.0\Two.Pointers.AssemblyInfoInputs.cache
+C:\Test\Algorithm.Practices\Algorithm.Technics\Two.Pointers\obj\Debug\net9.0\Two.Pointers.AssemblyInfo.cs
+C:\Test\Algorithm.Practices\Algorithm.Technics\Two.Pointers\obj\Debug\net9.0\Two.Pointers.csproj.CoreCompileInputs.cache
+C:\Test\Algorithm.Practices\Algorithm.Technics\Two.Pointers\obj\Debug\net9.0\Two.Pointers.sourcelink.json
+C:\Test\Algorithm.Practices\Algorithm.Technics\Two.Pointers\obj\Debug\net9.0\Two.Pointers.dll
+C:\Test\Algorithm.Practices\Algorithm.Technics\Two.Pointers\obj\Debug\net9.0\refint\Two.Pointers.dll
+C:\Test\Algorithm.Practices\Algorithm.Technics\Two.Pointers\obj\Debug\net9.0\Two.Pointers.pdb
+C:\Test\Algorithm.Practices\Algorithm.Technics\Two.Pointers\obj\Debug\net9.0\Two.Pointers.genruntimeconfig.cache
+C:\Test\Algorithm.Practices\Algorithm.Technics\Two.Pointers\obj\Debug\net9.0\ref\Two.Pointers.dll

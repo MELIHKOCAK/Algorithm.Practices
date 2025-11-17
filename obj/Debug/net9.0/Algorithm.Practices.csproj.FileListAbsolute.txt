@@ -2,3 +2,4 @@ C:\Test\Algorithm.Practices\obj\Debug\net9.0\Algorithm.Practices.GeneratedMSBuil
 C:\Test\Algorithm.Practices\obj\Debug\net9.0\Algorithm.Practices.AssemblyInfoInputs.cache
 C:\Test\Algorithm.Practices\obj\Debug\net9.0\Algorithm.Practices.AssemblyInfo.cs
 C:\Test\Algorithm.Practices\obj\Debug\net9.0\Algorithm.Practices.csproj.CoreCompileInputs.cache
+C:\Test\Algorithm.Practices\obj\Debug\net9.0\Algorithm.Practices.sourcelink.json

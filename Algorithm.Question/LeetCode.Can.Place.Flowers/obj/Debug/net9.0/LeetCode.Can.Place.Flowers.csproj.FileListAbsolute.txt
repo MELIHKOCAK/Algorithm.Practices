@@ -1,0 +1,15 @@
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Can.Place.Flowers\bin\Debug\net9.0\LeetCode.Can.Place.Flowers.exe
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Can.Place.Flowers\bin\Debug\net9.0\LeetCode.Can.Place.Flowers.deps.json
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Can.Place.Flowers\bin\Debug\net9.0\LeetCode.Can.Place.Flowers.runtimeconfig.json
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Can.Place.Flowers\bin\Debug\net9.0\LeetCode.Can.Place.Flowers.dll
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Can.Place.Flowers\bin\Debug\net9.0\LeetCode.Can.Place.Flowers.pdb
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Can.Place.Flowers\obj\Debug\net9.0\LeetCode.Can.Place.Flowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Can.Place.Flowers\obj\Debug\net9.0\LeetCode.Can.Place.Flowers.AssemblyInfoInputs.cache
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Can.Place.Flowers\obj\Debug\net9.0\LeetCode.Can.Place.Flowers.AssemblyInfo.cs
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Can.Place.Flowers\obj\Debug\net9.0\LeetCode.Can.Place.Flowers.csproj.CoreCompileInputs.cache
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Can.Place.Flowers\obj\Debug\net9.0\LeetCode.Can.Place.Flowers.sourcelink.json
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Can.Place.Flowers\obj\Debug\net9.0\LeetCode.Can.Place.Flowers.dll
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Can.Place.Flowers\obj\Debug\net9.0\refint\LeetCode.Can.Place.Flowers.dll
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Can.Place.Flowers\obj\Debug\net9.0\LeetCode.Can.Place.Flowers.pdb
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Can.Place.Flowers\obj\Debug\net9.0\LeetCode.Can.Place.Flowers.genruntimeconfig.cache
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Can.Place.Flowers\obj\Debug\net9.0\ref\LeetCode.Can.Place.Flowers.dll

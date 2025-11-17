@@ -1,0 +1,15 @@
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.WordsInAString\obj\Debug\net9.0\LeetCode.Reverse.WordsInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.WordsInAString\obj\Debug\net9.0\LeetCode.Reverse.WordsInAString.AssemblyInfoInputs.cache
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.WordsInAString\obj\Debug\net9.0\LeetCode.Reverse.WordsInAString.AssemblyInfo.cs
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.WordsInAString\obj\Debug\net9.0\LeetCode.Reverse.WordsInAString.csproj.CoreCompileInputs.cache
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.WordsInAString\obj\Debug\net9.0\LeetCode.Reverse.WordsInAString.sourcelink.json
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.WordsInAString\bin\Debug\net9.0\LeetCode.Reverse.WordsInAString.exe
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.WordsInAString\bin\Debug\net9.0\LeetCode.Reverse.WordsInAString.deps.json
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.WordsInAString\bin\Debug\net9.0\LeetCode.Reverse.WordsInAString.runtimeconfig.json
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.WordsInAString\bin\Debug\net9.0\LeetCode.Reverse.WordsInAString.dll
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.WordsInAString\bin\Debug\net9.0\LeetCode.Reverse.WordsInAString.pdb
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.WordsInAString\obj\Debug\net9.0\LeetCode.Reverse.WordsInAString.dll
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.WordsInAString\obj\Debug\net9.0\refint\LeetCode.Reverse.WordsInAString.dll
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.WordsInAString\obj\Debug\net9.0\LeetCode.Reverse.WordsInAString.pdb
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.WordsInAString\obj\Debug\net9.0\LeetCode.Reverse.WordsInAString.genruntimeconfig.cache
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Reverse.WordsInAString\obj\Debug\net9.0\ref\LeetCode.Reverse.WordsInAString.dll

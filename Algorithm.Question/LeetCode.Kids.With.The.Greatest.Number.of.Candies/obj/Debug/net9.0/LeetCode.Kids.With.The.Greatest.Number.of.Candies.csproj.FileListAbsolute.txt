@@ -1,0 +1,15 @@
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Kids.With.The.Greatest.Number.of.Candies\bin\Debug\net9.0\LeetCode.Kids.With.The.Greatest.Number.of.Candies.exe
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Kids.With.The.Greatest.Number.of.Candies\bin\Debug\net9.0\LeetCode.Kids.With.The.Greatest.Number.of.Candies.deps.json
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Kids.With.The.Greatest.Number.of.Candies\bin\Debug\net9.0\LeetCode.Kids.With.The.Greatest.Number.of.Candies.runtimeconfig.json
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Kids.With.The.Greatest.Number.of.Candies\bin\Debug\net9.0\LeetCode.Kids.With.The.Greatest.Number.of.Candies.dll
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Kids.With.The.Greatest.Number.of.Candies\bin\Debug\net9.0\LeetCode.Kids.With.The.Greatest.Number.of.Candies.pdb
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Kids.With.The.Greatest.Number.of.Candies\obj\Debug\net9.0\LeetCode.Kids.With.The.Greatest.Number.of.Candies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Kids.With.The.Greatest.Number.of.Candies\obj\Debug\net9.0\LeetCode.Kids.With.The.Greatest.Number.of.Candies.AssemblyInfoInputs.cache
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Kids.With.The.Greatest.Number.of.Candies\obj\Debug\net9.0\LeetCode.Kids.With.The.Greatest.Number.of.Candies.AssemblyInfo.cs
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Kids.With.The.Greatest.Number.of.Candies\obj\Debug\net9.0\LeetCode.Kids.With.The.Greatest.Number.of.Candies.csproj.CoreCompileInputs.cache
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Kids.With.The.Greatest.Number.of.Candies\obj\Debug\net9.0\LeetCode.Kids.With.The.Greatest.Number.of.Candies.sourcelink.json
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Kids.With.The.Greatest.Number.of.Candies\obj\Debug\net9.0\LeetCode.Kids.With.The.Greatest.Number.of.Candies.dll
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Kids.With.The.Greatest.Number.of.Candies\obj\Debug\net9.0\refint\LeetCode.Kids.With.The.Greatest.Number.of.Candies.dll
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Kids.With.The.Greatest.Number.of.Candies\obj\Debug\net9.0\LeetCode.Kids.With.The.Greatest.Number.of.Candies.pdb
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Kids.With.The.Greatest.Number.of.Candies\obj\Debug\net9.0\LeetCode.Kids.With.The.Greatest.Number.of.Candies.genruntimeconfig.cache
+C:\Test\Algorithm.Practices\Algorithm.Question\LeetCode.Kids.With.The.Greatest.Number.of.Candies\obj\Debug\net9.0\ref\LeetCode.Kids.With.The.Greatest.Number.of.Candies.dll
