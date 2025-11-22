@@ -1,5 +1,4 @@
 # Algorithm.Practices  
-> C# ile algoritma ve veri yapıları pratiği
 
 ## 📌 Proje Hakkında  
 Bu repo, C# kullanarak algoritmaların ve veri yapılarının temellerini pekiştirmek isteyenler için hazırlandı.  
