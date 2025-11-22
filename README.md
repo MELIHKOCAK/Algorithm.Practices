@@ -1,5 +1,4 @@
 # Algorithm.Practices  
-> C# ile algoritma ve veri yapıları pratiği
 
 ## 📌 Proje Hakkında  
 Bu repo, C# kullanarak algoritmaların ve veri yapılarının temellerini pekiştirmek isteyenler için hazırlandı.  
@@ -27,7 +26,8 @@ Burada bulacakların: sıralama ve arama algoritmaları, klasik LeetCode problem
   - Can Place Flowers  
   - Kids With The Greatest Number of Candies  
   - Reverse Vowels in a String  
-  - Reverse Words in a String  
+  - Reverse Words in a String
+  - Product of Array Except Self
   - …  
 
 ---
