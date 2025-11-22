@@ -4,26 +4,60 @@
     {
         static void Main(string[] args)
         {
-            int[] array = { 1, 3, 7, 9 };
+            #region FirstVersionNestedLoop
+            //int[] array = { 1, 3, 7, 9 };
+            //int[] newArray = new int[array.Length];
+            //int tempValue = 1;
+
+            //for (int i = 0; i < array.Length; i++)
+            //{
+            //    for (int j = 0; j < array.Length; j++)
+            //    {
+            //        if (j == i)
+            //            continue;
+
+            //        tempValue *= array[j];
+            //    }
+            //    newArray[i] = tempValue;
+            //    tempValue = 1;
+            //}
+
+            //foreach (var item in newArray)
+            //    Console.Write($"{item} ");
+            #endregion
+
+            #region SecondVersion O(n)
+
+            int[] array = { 1, 0, 7, 9 };
             int[] newArray = new int[array.Length];
+            bool flag = false;
             int tempValue = 1;
 
             for (int i = 0; i < array.Length; i++)
             {
-                for (int j = 0; j < array.Length; j++)
+                if (array[i] == 0)
                 {
-                    if (j == i)
-                        continue;
-
-                    tempValue *= array[j];
+                    flag = true;
+                    continue;
                 }
-                newArray[i] = tempValue;
-                tempValue = 1;
+                tempValue *= array[i];
+            }
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (array[i] == 0)
+                {
+                    newArray[i] = tempValue;
+                    break;
+                }
+
+                if (flag == false)
+                    newArray[i] = tempValue / array[i];
             }
 
             foreach (var item in newArray)
-                Console.Write($"{item} ");
-
+                Console.WriteLine(item);
+            #endregion
         }
     }
 }
