@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.Reverse.Vowels.String")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04f72d365f916bdf465394e36ff2584ef6b4a915")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e00380c86fb323ba50db7b46500f6eb3afe9216")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.Reverse.Vowels.String")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.Reverse.Vowels.String")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

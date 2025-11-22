@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selection.Sort", "Sorting.A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary.Search", "Search.Algorithm\Binary.Search\Binary.Search.csproj", "{6E846031-2F89-483A-A51D-609323EBAF58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Product.of.Array.Except.Self", "Algorithm.Question\LeetCode.Product.of.Array.Except.Self\LeetCode.Product.of.Array.Except.Self.csproj", "{D1F4A4CE-CB2C-41B1-8430-A6ADA74F1709}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{6E846031-2F89-483A-A51D-609323EBAF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E846031-2F89-483A-A51D-609323EBAF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E846031-2F89-483A-A51D-609323EBAF58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F4A4CE-CB2C-41B1-8430-A6ADA74F1709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F4A4CE-CB2C-41B1-8430-A6ADA74F1709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F4A4CE-CB2C-41B1-8430-A6ADA74F1709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F4A4CE-CB2C-41B1-8430-A6ADA74F1709}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -91,6 +97,7 @@ Global
 		{9E021D6F-7010-4373-A839-D6358045D072} = {94F0EDF4-02FA-4166-9365-6DAF7BB56738}
 		{1A261D68-E5D2-43DA-A0B9-E0A204C7719D} = {94F0EDF4-02FA-4166-9365-6DAF7BB56738}
 		{6E846031-2F89-483A-A51D-609323EBAF58} = {C41B10B0-35A9-4527-AABA-06A49C658FC7}
+		{D1F4A4CE-CB2C-41B1-8430-A6ADA74F1709} = {DE744514-3479-43C9-B842-DA75529652B2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {93246639-D362-4582-B9CF-996014022B9A}
