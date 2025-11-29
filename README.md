@@ -30,6 +30,10 @@ Burada bulacakların: sıralama ve arama algoritmaları, klasik LeetCode problem
   - Product of Array Except Self
   - …  
 
+### Veri Yapıları
+- Generic Stack
+- … 
+
 ---
 
 ## 🚀 Başlamak İçin  
