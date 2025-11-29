@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.Kids.With.The.Greatest.Number.of.Candies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e00380c86fb323ba50db7b46500f6eb3afe9216")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc99e31cae97198e93ba1b26647a1ac515b6ac49")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.Kids.With.The.Greatest.Number.of.Candies")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.Kids.With.The.Greatest.Number.of.Candies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

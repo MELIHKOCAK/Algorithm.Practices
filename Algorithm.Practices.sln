@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary.Search", "Search.Alg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Product.of.Array.Except.Self", "Algorithm.Question\LeetCode.Product.of.Array.Except.Self\LeetCode.Product.of.Array.Except.Self.csproj", "{D1F4A4CE-CB2C-41B1-8430-A6ADA74F1709}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data.Structures", "Data.Structures", "{4410ECA9-E303-4D06-81F4-B1AA52049D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic.Stack", "..\Generic.Stack\Generic.Stack.csproj", "{5172C79C-609B-4997-9EB2-965748B74C75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +87,10 @@ Global
 		{D1F4A4CE-CB2C-41B1-8430-A6ADA74F1709}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1F4A4CE-CB2C-41B1-8430-A6ADA74F1709}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1F4A4CE-CB2C-41B1-8430-A6ADA74F1709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5172C79C-609B-4997-9EB2-965748B74C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5172C79C-609B-4997-9EB2-965748B74C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5172C79C-609B-4997-9EB2-965748B74C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5172C79C-609B-4997-9EB2-965748B74C75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -98,6 +106,7 @@ Global
 		{1A261D68-E5D2-43DA-A0B9-E0A204C7719D} = {94F0EDF4-02FA-4166-9365-6DAF7BB56738}
 		{6E846031-2F89-483A-A51D-609323EBAF58} = {C41B10B0-35A9-4527-AABA-06A49C658FC7}
 		{D1F4A4CE-CB2C-41B1-8430-A6ADA74F1709} = {DE744514-3479-43C9-B842-DA75529652B2}
+		{5172C79C-609B-4997-9EB2-965748B74C75} = {4410ECA9-E303-4D06-81F4-B1AA52049D01}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {93246639-D362-4582-B9CF-996014022B9A}
